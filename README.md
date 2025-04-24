@@ -80,6 +80,5 @@ MIT
 ## 👨‍💻 Author
 Your Name – @Pratikp4912
 
-Let me know if you want this customized with your name, GitHub repo URL, or if you'd like help creating the demo GIF/video!
 
 
